@@ -4,6 +4,7 @@ html {
 
 .masthead {
   color: #fff;
+  font-weight: bold;
   background-image: url("../images/leaf-bg.svg");
   background-size: 64px;
   background-color: #588477;
